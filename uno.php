@@ -10,7 +10,7 @@
 
     <h1 class="text-center">
         <?php
-            echo "Hola mundo!!!";
+            echo "Hola mundo!!";
         ?>
     </h1>
 
