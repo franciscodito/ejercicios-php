@@ -9,7 +9,9 @@
   <body>
 
 <?php
+
 $suma = 30 + 5;
+
 echo "<p class='text-center h3'>30 + 5 = " . $suma . "</p>";
 
 $resta = 30 - 5;
